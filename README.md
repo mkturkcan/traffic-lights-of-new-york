@@ -3,13 +3,12 @@
 <p align="center">
   <img src="http://keremturkcan.com/projects/TLoNY.png" />
 </p>
-<p align="center">
+
+
+# Traffic Lights of New York (TLoNY)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![Dataset Size](https://img.shields.io/badge/Size-0.5GB-blue.svg)]()
   [![Format](https://img.shields.io/badge/Format-YOLOv8-green.svg)]()
-
-</p>
-# Traffic Lights of New York (TLoNY)
 
 A comprehensive object detection dataset for fine-grained classification of traffic lights in New York City. The dataset includes both vehicular and pedestrian traffic signals with detailed color state annotations.
 
