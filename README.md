@@ -16,10 +16,10 @@ A comprehensive object detection dataset for fine-grained classification of traf
 TLoNY provides accurately labeled traffic light data suitable for training object detection models, sourced from publicly available images from Unsplash. The dataset captures various lighting conditions, weather scenarios, and urban environments of New York City.
 
 ## Download
-
+### Dataset
 * [Huggingface](https://huggingface.co/datasets/mehmetkeremturkcan/traffic-lights-of-new-york/tree/main)
-
-
+### Models
+* [Huggingface](https://huggingface.co/mehmetkeremturkcan/traffic-lights-of-new-york)
 
 ## Dataset Format
 - Format: YOLOv8 (ultralyics)
