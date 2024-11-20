@@ -42,9 +42,6 @@ TLoNY/
 ├── val/
 │   ├── images/
 │   └── labels/
-├── test/
-│   ├── images/
-│   └── labels/
 └── data.yaml
 ```
 
