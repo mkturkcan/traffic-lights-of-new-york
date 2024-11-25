@@ -13,6 +13,12 @@
 A comprehensive object detection dataset for fine-grained classification of traffic lights in New York City. The dataset includes both vehicular and pedestrian traffic signals with detailed color state annotations.
 
 ## Overview
+
+<p align="center">
+  <img src="http://keremturkcan.com/projects/tlony_collage.png" />
+</p>
+
+
 TLoNY provides accurately labeled traffic light data suitable for training object detection models, sourced from publicly available images from Unsplash. The dataset captures various lighting conditions, weather scenarios, and urban environments of New York City.
 
 ## Download
