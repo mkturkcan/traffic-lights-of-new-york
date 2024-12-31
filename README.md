@@ -30,7 +30,7 @@ TLoNY provides accurately labeled traffic light data suitable for training objec
 ## Dataset Format
 - Format: YOLOv8 (ultralyics)
 - Resolution: Various
-- Images: RGB, JPG format
+- Images: RGB, JPG format (original images could be accessed through https://unsplash.com/photos/{ID}, where {ID} is the uppercase letter/number combo in the filename)
 - Annotations: txt files in YOLO format
 
 ## Classes
