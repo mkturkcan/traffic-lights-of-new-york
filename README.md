@@ -1,7 +1,5 @@
-
-
 <p align="center">
-  <img src="http://keremturkcan.com/projects/TLoNY.png" />
+  <img src="https://github.com/mkturkcan/traffic-lights-of-new-york/blob/main/assets/logo.png?raw=true"  width="180" />
 </p>
 
 
