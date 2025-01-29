@@ -3,7 +3,10 @@
 </p>
 
 
-# Traffic Lights of New York (TLoNY)
+<h3 align="center">
+  <p>Traffic Lights of New York (TLoNY)</p>
+</h3>
+
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![Dataset Size](https://img.shields.io/badge/Size-0.5GB-blue.svg)]()
   [![Format](https://img.shields.io/badge/Format-YOLOv8-green.svg)]()
