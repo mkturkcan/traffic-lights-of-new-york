@@ -10,6 +10,10 @@
 
 A comprehensive object detection dataset for fine-grained classification of traffic lights in New York City. The dataset includes both vehicular and pedestrian traffic signals with detailed color state annotations.
 
+# Purpose
+
+As AI transforms our world, the next frontier is our daily urban experience – the streets we walk and drive on. This effort demands vision models that are both lightning-fast and unfailingly accurate, especially for critical infrastructure like traffic signals. TLoNY provides a specialized dataset for training such models to aid the the broader goal of building reliable, street-aware AI systems.
+
 ## Overview
 
 <p align="center">
@@ -17,7 +21,7 @@ A comprehensive object detection dataset for fine-grained classification of traf
 </p>
 
 
-TLoNY provides accurately labeled traffic light data suitable for training object detection models, sourced from publicly available images from Unsplash. The dataset captures various lighting conditions, weather scenarios, and urban environments of New York City.
+TLoNY provides accurately labeled traffic light data suitable for training object detection models, sourced from publicly available images from Unsplash. The dataset captures various lighting conditions, weather scenarios, and urban environments of New York City. Designed for training high-precision computer vision models, it is designed to serve as one of the building blocks for developing trustworthy computer vision systems that can understand and navigate complex streetscapes.
 
 ## Download
 ### Dataset
